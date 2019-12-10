@@ -1,0 +1,34 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode解题",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanFengZ/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WanFengZ/leetcode/issues"
+  },
+  "homepage": "https://github.com/WanFengZ/leetcode#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^24.9.0",
+    "core-js": "^3.4.8",
+    "jest": "^24.9.0",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "devDependencies": {
+    "git-cz": "^3.3.0",
+    "prettier": "^1.19.1"
+  }
+}
